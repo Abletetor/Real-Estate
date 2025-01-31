@@ -86,7 +86,7 @@ export const testimonialsData = [
       image: profile_img_2,
       alt: "Portrait of Richard Nelson",
       rating: 4,
-      text: "From the very first meeting, they understood my vision and helped me find the perfect property. Their attention to detail and commitment to client satisfaction is unmatched."
+      text: "Finding my dream home was effortless with this platform! The seamless browsing experience, detailed property listings, and responsive support made the process smooth and stress-free. Highly recommended!"
    },
    {
       name: "James Washington",
@@ -94,6 +94,6 @@ export const testimonialsData = [
       image: profile_img_3,
       alt: "Portrait of James Washington",
       rating: 5,
-      text: "From the very first meeting, they understood my vision and helped me find the perfect property. Their attention to detail and commitment to client satisfaction is unmatched."
+      text: "This real estate service exceeded my expectations! From stunning property visuals to clear pricing and locations, everything was well-organized. I found the perfect home in no time!"
    }
 ];
